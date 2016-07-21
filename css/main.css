@@ -1,0 +1,19 @@
+div{
+	width:100px; 
+	height:100px;
+	background: rgb(129,127,129);
+	border:2px solid black;
+	margin-bottom: 10px;
+	margin-right: 5px;
+}
+.padre {
+	width: 335px;
+  height: 106px;
+  padding: 7px;	
+}
+.hijo {
+	display: inline-block ;
+}
+.cajaderecha {
+	display: inline-block;
+}
